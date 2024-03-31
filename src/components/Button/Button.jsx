@@ -10,5 +10,4 @@ const ButtonComponent = ({ children, onClick }) => {
 		</>
 	);
 };
-
 export const Button = memo(ButtonComponent);
